@@ -2,3 +2,4 @@ hello
 szia
 mizu
 .
+ez nem pont
